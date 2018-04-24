@@ -1,5 +1,7 @@
-# AVL-tree
+AVL-tree
+========
 it's a self balancing Binary Search Tree that rebalances itself after each update in the in it, to keep logarithmic 
+
 1 - fields
 ============
 root : bst tree root
